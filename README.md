@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# NextJS CRUD:
 
-## Getting Started
+### [Click aquí para ver el ejemplo](https://gm-gith.github.io/sprint_01/public/index.html)
 
-First, run the development server:
+### Descripción:
+Gestor de notas clásico.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Características:    
+*Presentar aquí las que lo hacen destacar (incluso screenshots y gifs para mostrar funciones)*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Cómo usar:          
+*Presentar aquí las instrucciones*
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Tecnologías:        
+NextJS, Tailwind, Context
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+### Colaboradores:      
+*Aquí los créditos y enlaces a sus perfiles de GitHub.*
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Licencia:           
+*Incluirla para que otros desarrolladores puedan entender lo que pueden y no pueden hacer con su proyecto.*
+Se puede utilizar [esta guía](https://choosealicense.com/) como ayuda para elegir una licencia.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+***
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Mantengo el README breve pero detallado (Siempre debe estar actualizado y debe explicarse por sí mismo). 
+Si dedico mucho tiempo al proyecto, también debería dedicar una buena parte al README. 
+Esto puede ayudar en el futuro si me alejo por un tiempo o necesito volver a familiarizarse con el proyecto. 
+> Sin mencionar que dejará una impresión positiva en futuros entrevistadores que miren [mi perfil](https://github.com/GM-GitH) de GitHub.
