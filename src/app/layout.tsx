@@ -1,5 +1,6 @@
-import Link from "next/link"
-import "./globals.css"
+import Link from "next/link";
+import "./globals.css";
+import { TaskProvider } from "@/context/TaskContext";
 
 export const metadata = {
   title: "Create Next App",
@@ -15,12 +16,11 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <div>
-          <Link href="/about"> About |</Link>
           <Link href="/new"> New |</Link>
           <Link href="/edit/1"> Edit</Link>
         </div>
-        {children}
+        <TaskProvider>{children}</TaskProvider>
       </body>
     </html>
-  )
+  );
 }
