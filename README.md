@@ -1,6 +1,6 @@
 # NextJS CRUD:
 
-### [Click aquí para ver el ejemplo](https://gm-gith.github.io/sprint_01/public/index.html)
+### [Click aquí para ver el ejemplo](https://gm-gith.github.io/nextjs-tailwind-context)
 
 ### Descripción:
 Gestor de notas clásico.
